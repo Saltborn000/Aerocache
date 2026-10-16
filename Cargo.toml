@@ -6,6 +6,9 @@ authors = ["Zohran"]
 description = "Ultra-fast, sharded, concurrent in-memory cache with zero-copy lookups, TTL, and enterprise telemetry."
 license = "MIT OR Apache-2.0"
 readme = "README.md"
+repository = "https://github.com/Saltborn000/Aerocache"
+homepage = "https://github.com/Saltborn000/Aerocache"
+documentation = "https://docs.rs/aerocache"
 keywords = ["cache", "concurrency", "lock-free", "sharded", "performance"]
 categories = ["caching", "concurrency", "data-structures"]
 
